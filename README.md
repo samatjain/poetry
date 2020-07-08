@@ -1,5 +1,10 @@
 # Poetry: Dependency Management for Python
 
+I @samatjain have made some changes to get-poetry.py:
+
+ * Prefer Python 3 over Python 2 for poetry itself
+ * Never modify PATH
+
 Poetry helps you declare, manage and install dependencies of Python projects,
 ensuring you have the right stack everywhere.
 
